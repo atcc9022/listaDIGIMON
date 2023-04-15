@@ -1,0 +1,10 @@
+.bgmain{
+    background-image: url(../img/wallpaperflare.com_wallpaper1.jpg);
+    height: 900px;
+    background-repeat: repeat;
+
+}
+
+#levelDigi{
+    font-weight: bolder;
+}
